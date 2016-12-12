@@ -1,0 +1,27 @@
+/* your styles go here */
+
+.box-image-text .image {
+  min-height: 200px;
+  max-height: 200px;
+}
+
+.box-simple {
+  min-height: 230px;
+}
+
+.logo {
+	position: relative;
+	z-index: 999999;
+}
+
+#heading-breadcrumbs h1 {
+	text-align: center;
+}
+
+h1, .h1 {
+    font-family: "Courier New", serif;
+}
+
+.portrait img {
+	width: 50%;
+}
