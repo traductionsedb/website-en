@@ -1,5 +1,5 @@
 +++
-title = "à propos"
+title = "about me"
 +++
 
 <div class="container">
@@ -10,25 +10,25 @@ title = "à propos"
 			
 		
 		<p>
-			Je m’appelle Émilie Dick-Bélisle et j’étudie actuellement à l’Université Laval en traduction. J’obtiendrai mon diplôme à l’hiver 2017.
+			My name is Emilie and I currently study translation at Université Laval. I will obtain my diploma in April 2017. 
 		</p>
 
 		
 		
 		<p>
-			Je suis passionnée de lecture et de mots depuis ma tendre enfance. Je lis le plus souvent possible et j'affectionne particulièrement les romans.
+			I have been passionate about words and reading since my early childhood. I read all the time!
 		</p>
 
 		<p>
-			Grâce à mon expérience de quelques années dans une agence de voyages, j’ai appris à travailler sous pression et à respecter des délais serrés. Je m’applique dans ce que j’entreprends, surtout dans ce qui touche au travail.
+			I previously worked in a travel agency. I gained a lot of work experience in that field. I can work under pressure and respect tight deadlines and I am well-organized.
 		</p>
 
 		<p>
-			Au plaisir de collaborer avec vous!
+			I am looking forward to working with you!
 		</p>
 
 		<p>
-			<a href="https://ca.linkedin.com/in/émilie-dick-bélisle-1a3252127">Profil LinkedIn</a>
+			<a href="https://ca.linkedin.com/in/émilie-dick-bélisle-1a3252127">LinkedIn Profile</a>
 		</p>
 	</div>
 </div>
