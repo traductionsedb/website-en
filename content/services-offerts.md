@@ -1,21 +1,21 @@
 +++
-title = "Services offerts"
+title = "Services"
 +++
 
 
-## Traduction et révision de documents de nature variée de l’anglais vers le français dans les domaines suivants :
+## English to French translation of various types of documents and also editing. The fields include (but are not limited to):
 
-* Affaires gouvernementales;
-* Alimentation et nutrition;
-* Arts et culture;
-* Cinéma et télévision;
-* Enfants et jeunesse;
-* Environnement;
-* Général;
-* Hôtellerie et restauration;
-* Sciences humaines et sociales;
-* Sites Web;
-* Sports et loisirs;
-* Tourisme et voyages.
+* arts and culture
+* children and youth
+* cinema and television
+* environment
+* food and nutrition
+* general
+* governmental matters
+* hospitality and food service industry
+* human and social sciences
+* sports and leisure
+* tourism and travel
+* websites
 
 

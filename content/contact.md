@@ -2,11 +2,11 @@
 title = "Contact"
 +++
 
-# Vous avez besoin de faire traduire ou réviser un document? J’ai la solution!
+# If you have a document that needs to be translated or edited, I have the solution!
 
-Afin d’obtenir un devis gratuit pour une traduction à effectuer, merci d’envoyer un courriel à l’adresse suivante : <info@traductionsedb.com>.
+To receive a quotation, please email me at <info@edbtranslations.com>.
 
-C’est avec plaisir que je répondrai à votre courriel dans les 24 heures!
+It will be my pleasure to answer your email in the next 24 hours.
 
 
 <img src="/img/livres.jpg" style="width: 100%" />
