@@ -6,7 +6,7 @@ publishdir = "docs"
 # Enable comments by entering your Disqus shortname
 # disqusShortname = "devcows"
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = "UA-87607842-1"
+googleAnalytics = "UA-87607842-2"
 
 # Define the number of posts per page
 paginate = 10
